@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-<img align="right" width="385" src="https://media.giphy.com/media/VeBeB9rR524RW/giphy.gif">
+<img align="right" width="375" src="https://media.giphy.com/media/VeBeB9rR524RW/giphy.gif">
 
 #### I'm a Senior Frontend Developer living in :sunny: Malta.
 
