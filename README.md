@@ -1,5 +1,7 @@
 ### Hi there :wave:
 
+<img align="right" src="https://media.giphy.com/media/VeBeB9rR524RW/giphy.gif">
+
 #### I'm a Senior Frontend Developer living in :sunny: Malta.
 
 - :office: I am currently working full-time for **Betsson Group**
