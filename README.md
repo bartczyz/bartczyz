@@ -24,6 +24,11 @@ Currently working at **Betsson Group** as a Software Architect. Building **[Grid
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vike](https://img.shields.io/badge/Vike-8B5CF6?style=flat-square&logo=vite&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![Stencil](https://img.shields.io/badge/Stencil-4D4D4D?style=flat-square&logo=stencil&logoColor=white)
+![Web Components](https://img.shields.io/badge/Web_Components-29ABE2?style=flat-square&logo=webcomponents.org&logoColor=white)
 
 ---
 
